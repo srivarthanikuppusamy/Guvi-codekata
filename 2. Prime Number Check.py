@@ -1,17 +1,17 @@
-Problem Statement:
-Given a number N, check whether it is prime or not. Print 'yes' if it is prime else print 'no'.
+# Problem Statement:
+# Given a number N, check whether it is prime or not. Print 'yes' if it is prime else print 'no'.
 
-Input Description:
-The input consists of a single integer N.
+# Input Description:
+# The input consists of a single integer N.
 
-Output Description:
-The output is 'yes' if N is prime, otherwise 'no'.
+# Output Description:
+# The output is 'yes' if N is prime, otherwise 'no'.
 
-Sample Input:
-123
+# Sample Input:
+# 123
 
-Sample Output:
-no
+# Sample Output:
+# no
 
 import math
 n = int(input())
